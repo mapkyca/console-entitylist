@@ -1,0 +1,12 @@
+{
+    "name": "mapkyca/console-entitylist",
+    "type": "known-console",
+    "description": "List the UUIDs of the last X entities that match the given search criteria",
+    "version": "1.0.0",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "EntityList"
+    }
+}
